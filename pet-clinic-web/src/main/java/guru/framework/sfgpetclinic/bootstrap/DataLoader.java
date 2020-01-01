@@ -17,6 +17,7 @@ public class DataLoader implements CommandLineRunner {
     private final SpecialitiesService specialitiesService;
     private final VisitService visitService;
 
+    @Autowired//constructor do not need it
     public DataLoader(OwnerService ownerService, VetService vetService, PetTypeService petTypeService, SpecialitiesService specialitiesService, VisitService visitService) {
         this.ownerService = ownerService;
         this.vetService = vetService;
@@ -25,7 +26,7 @@ public class DataLoader implements CommandLineRunner {
         this.visitService = visitService;
     }
 
-    @Autowired//constructor do not need it
+
 
 
     @Override
