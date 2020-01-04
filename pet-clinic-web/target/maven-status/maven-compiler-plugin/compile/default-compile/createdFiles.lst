@@ -1,0 +1,5 @@
+guru/framework/sfgpetclinic/controllers/VetController.class
+guru/framework/sfgpetclinic/controllers/IndexController.class
+guru/framework/sfgpetclinic/bootstrap/DataLoader.class
+guru/framework/sfgpetclinic/SfgPetClinicApplication.class
+guru/framework/sfgpetclinic/controllers/OwnerController.class
