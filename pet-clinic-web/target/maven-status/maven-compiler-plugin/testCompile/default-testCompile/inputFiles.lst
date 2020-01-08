@@ -1,5 +1,7 @@
+/Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/guru/framework/sfgpetclinic/services/map/PetServiceMapTest.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/guru/framework/sfgpetclinic/controllers/PetControllerTest.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/guru/framework/sfgpetclinic/services/springdatajpa/OwnerSDJpaServiceTest.java
+/Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/guru/framework/sfgpetclinic/controllers/VisitControllerTest.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/guru/framework/sfgpetclinic/services/map/abstractMapServiceTest.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/guru/framework/sfgpetclinic/controllers/OwnerControllerTest.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/test/java/sfgpetclinic/SfgPetClinicApplicationTests.java

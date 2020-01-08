@@ -93,11 +93,11 @@ public class DataLoader implements CommandLineRunner {
         Speciality savedRadiology = specialitiesService.save(radiology);
 
         Speciality surgery=new Speciality();
-        radiology.setDescription("surgery");
+        surgery.setDescription("surgery");
         Speciality savedSurgery = specialitiesService.save(surgery);
 
         Speciality dentistry=new Speciality();
-        radiology.setDescription("dentistry");
+        dentistry.setDescription("dentistry");
         Speciality savedDentistry = specialitiesService.save(dentistry);
 
         Vet vet1=new Vet();
@@ -105,12 +105,19 @@ public class DataLoader implements CommandLineRunner {
         vet1.setFirstName("Sam");
         vet1.setLastName("Asc");
         vet1.getSpecialities().add(savedRadiology);
+        vet1.getSpecialities().add(savedDentistry);
         Vet vet2=new Vet();
         vet2.setFirstName("Jessie");
         vet2.setLastName("Porter");
-        vet2.getSpecialities().add(savedSurgery);
-        vetService.save(vet1);
+        vet2.getSpecialities().add(savedDentistry);
+
+        Vet vet3=new Vet();
+        vet3.setFirstName("somefirst");
+        vet3.setLastName("somesecond");
+        vet3.getSpecialities().add(savedSurgery);
         vetService.save(vet2);
+        vetService.save(vet1);
+        vetService.save(vet3);
         System.out.println("Loaded Vets...");
     }
 }

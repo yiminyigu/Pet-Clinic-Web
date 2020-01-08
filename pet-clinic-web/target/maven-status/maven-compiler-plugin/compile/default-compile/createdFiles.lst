@@ -2,6 +2,7 @@ guru/framework/sfgpetclinic/formatters/PetTypeFormatter.class
 guru/framework/sfgpetclinic/controllers/VetController.class
 guru/framework/sfgpetclinic/controllers/IndexController.class
 guru/framework/sfgpetclinic/controllers/PetController.class
+guru/framework/sfgpetclinic/controllers/VisitController$1.class
 guru/framework/sfgpetclinic/controllers/VisitController.class
 guru/framework/sfgpetclinic/bootstrap/DataLoader.class
 guru/framework/sfgpetclinic/SfgPetClinicApplication.class
