@@ -1,1 +1,6 @@
+guru/framework/sfgpetclinic/services/map/abstractMapServiceTest.class
+guru/framework/sfgpetclinic/services/map/OwnerServiceMapTest.class
+guru/framework/sfgpetclinic/controllers/OwnerControllerTest.class
+guru/framework/sfgpetclinic/services/springdatajpa/OwnerSDJpaServiceTest.class
 sfgpetclinic/SfgPetClinicApplicationTests.class
+guru/framework/sfgpetclinic/controllers/PetControllerTest.class

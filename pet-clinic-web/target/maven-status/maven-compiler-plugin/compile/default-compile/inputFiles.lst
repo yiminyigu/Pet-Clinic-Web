@@ -1,5 +1,8 @@
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/bootstrap/DataLoader.java
+/Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/formatters/PetTypeFormatter.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/SfgPetClinicApplication.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/controllers/OwnerController.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/controllers/IndexController.java
+/Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/controllers/PetController.java
 /Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/controllers/VetController.java
+/Users/stevecai/Desktop/Guru Spring/proj/pet-clinic-web/src/main/java/guru/framework/sfgpetclinic/controllers/VisitController.java
